@@ -7,6 +7,6 @@
 
 
 Course:
-[1] https://www.coursera.org/specializations/probabilistic-graphical-models
-[2] https://stanford-cs221.github.io/autumn2021/
+[1] https://www.coursera.org/specializations/probabilistic-graphical-models  
+[2] https://stanford-cs221.github.io/autumn2021/  
 [3] https://ermongroup.github.io/cs228-notes/
